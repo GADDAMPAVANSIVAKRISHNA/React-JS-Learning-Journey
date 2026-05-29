@@ -161,9 +161,9 @@ The repository contains five core mini-projects, demonstrating end-to-end compon
 
 ## 🤝 Connect with Me
 
-* **GitHub:** [@yourusername](https://github.com/yourusername)
-* **LinkedIn:** [Your Name](https://linkedin.com/in/yourname)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **GitHub:** https://github.com/GADDAMPAVANSIVAKRISHNA
+* **LinkedIn:** https://www.linkedin.com/in/pavan-siva-krishna-gaddam-7912052b2/
+* **Email:** gddmpvn24@gmail.com
 
 ---
 
